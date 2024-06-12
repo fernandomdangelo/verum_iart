@@ -19,6 +19,7 @@ echo "venv/" >> .gitignore
 echo "ENV/" >> .gitignore
 echo "env.bak/" >> .gitignore
 echo "venv.bak/" >> .gitignore
+echo "dados/" >> .gitignore
 
 # Ignorar outros arquivos e pastas
 *.pyc
