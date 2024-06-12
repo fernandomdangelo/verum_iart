@@ -21,7 +21,7 @@ entrevistador =  "asst_w4HdCa3Sm7RyeZw8Uh2L5ays" #Asistente Entrevistador 2 (Ope
 analista = "asst_FOWRenT4EeWjO6vCTJsclGKS" #Analista IART
 
 
-assistente = entrevistador #Cosntruir função para selecionar o assistente de acordo com o prompt de saída Entrevistador IART mantendo a thread com o Briefing.
+assistente = analista #Cosntruir função para selecionar o assistente de acordo com o prompt de saída Entrevistador IART mantendo a thread com o Briefing.
 
 
 def bot(prompt):
@@ -61,14 +61,11 @@ def bot(prompt):
 
 
 @app.route("/chat", methods=["POST"])
-def chat():
+def chat():##
     prompt = request.json["msg"]
     resposta = bot(prompt)
     print(resposta)
     texto_resposta = resposta.content[0].text.value
-    if 'FIM DA ENTREVISTA' in texto_resposta:
-        global assistente
-        assistente = analista
     return texto_resposta
 
 @app.route("/")
@@ -77,5 +74,3 @@ def home():
 
 if __name__ == "__main__":
     app.run(debug = True)
-
-#Dica para resolver iteração entre assistente seria: tranformar o bot em um classe para startar os dois bots diferentes de acordo com o contexto da conversa, utilizando a thread para manter histórico da conversa.

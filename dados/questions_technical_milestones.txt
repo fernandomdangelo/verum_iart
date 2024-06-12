@@ -1,0 +1,29 @@
+1. Quais são os marcos técnicos estabelecidos para o projeto?
+   Exemplo: "Teremos três marcos principais: DR1 para modelagem dos elementos principais, DR2 para compatibilização multidisciplinar e DR3 para verificação de consistência entre a documentação e o modelo federado."
+
+2. Quais atividades serão realizadas durante a fase de Design Review 1 (DR1)?
+   Exemplo: "Durante a DR1, modelaremos os elementos principais do projeto e realizaremos uma sessão de Design Review com validação por checklists multidisciplinares."
+
+3. Como será feita a compatibilização multidisciplinar do projeto durante a DR2?
+   Exemplo: "Executaremos sessões de compatibilização utilizando relatórios de Clash Detective e checklists multidisciplinares para garantir a integração entre disciplinas."
+
+4. Quais critérios serão utilizados para verificar a consistência entre a documentação e o modelo federado na DR3?
+   Exemplo: "Utilizaremos uma sessão de Model Review para analisar a conformidade, integridade e consistência dos dados contidos no modelo federado."
+
+5. Quem é responsável por atualizar o modelo e documentos em caso de inconsistências identificadas durante os marcos técnicos?
+   Exemplo: "A equipe projetista é responsável por atualizar o modelo e documentos conforme necessário para corrigir quaisquer inconsistências."
+
+6. Como serão documentadas as modificações de projeto realizadas durante os marcos técnicos?
+   Exemplo: "Todas as modificações serão documentadas em relatórios de progresso que serão revisados e aprovados pelas partes interessadas."
+
+7. Quais ferramentas e metodologias serão utilizadas para realizar as revisões de design e compatibilização?
+   Exemplo: "Utilizaremos ferramentas como Navisworks para Clash Detection e checklists padronizados para validar a compatibilidade e consistência do projeto."
+
+8. Qual é a frequência das sessões de Design Review e Model Review ao longo do projeto?
+   Exemplo: "As sessões de Design Review e Model Review serão realizadas em intervalos regulares, conforme definido no cronograma do projeto."
+
+9. Como será garantida a comunicação eficiente entre as disciplinas durante as fases de compatibilização?
+   Exemplo: "Promoveremos reuniões regulares entre as disciplinas envolvidas e utilizaremos plataformas colaborativas para facilitar a comunicação e troca de informações."
+
+10. Quais são os critérios para considerar um marco técnico como concluído com sucesso?
+    Exemplo: "Um marco técnico será considerado concluído com sucesso quando todas as atividades planejadas forem executadas e validadas conforme os critérios estabelecidos, sem inconsistências remanescentes."

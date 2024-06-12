@@ -1,0 +1,30 @@
+1. Quais são os principais usos do modelo BIM neste projeto?
+   Exemplo: "Os principais usos serão: projeto autoral em BIM, extração de documentação 2D, detecção de interferências e planejamento 4D."
+
+2. Como você planeja utilizar o modelo BIM para a detecção de interferências?
+   Exemplo: "Usaremos o modelo BIM para identificar e resolver conflitos entre diferentes disciplinas antes do início da construção."
+
+3. O modelo BIM será utilizado para a extração de quantitativos? Se sim, quais elementos?
+   Exemplo: "Sim, utilizaremos o modelo para calcular quantitativos de concreto, aço e outros materiais de construção."
+
+4. De que forma o BIM será integrado ao planejamento do cronograma (4D)?
+   Exemplo: "Vincularemos o modelo BIM ao cronograma do projeto para simular a sequência de construção e otimizar os processos."
+
+5. Haverá uso do BIM para a gestão de instalações (FM)? Se sim, quais aspectos serão gerenciados?
+   Exemplo: "Sim, o BIM será utilizado para a gestão de manutenção, incluindo sistemas de HVAC, elétricos e hidráulicos."
+
+6. O modelo BIM será compartilhado com todas as disciplinas envolvidas no projeto? Quais são essas disciplinas?
+   Exemplo: "Sim, o modelo será compartilhado com arquitetos, engenheiros civis, engenheiros elétricos e mecânicos."
+
+7. Existe um plano para revisar e atualizar o modelo BIM regularmente? Qual será a frequência dessas revisões?
+   Exemplo: "O modelo será revisado e atualizado mensalmente para refletir o progresso do projeto e quaisquer mudanças."
+
+8. Como o modelo BIM será utilizado para a comunicação com as partes interessadas do projeto?
+   Exemplo: "Utilizaremos visualizações 3D e simulações para apresentar o projeto às partes interessadas e obter feedback."
+
+9. Quais são as principais vantagens esperadas do uso do BIM neste projeto?
+   Exemplo: "Esperamos melhorar a coordenação entre disciplinas, reduzir erros de projeto e aumentar a eficiência da construção."
+
+10. Haverá uso do BIM para a gestão de custos (5D)? Se sim, como será implementado?
+    Exemplo: "Sim, integraremos o modelo BIM com software de gestão de custos para monitorar e controlar os gastos do projeto."
+

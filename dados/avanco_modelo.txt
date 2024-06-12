@@ -1,0 +1,17 @@
+AVANÇO DO MODELO
+
+Objetivo: Estabelecer critérios de medição de progresso para projetos desenvolvidos em modelos BIM.
+
+Critérios:
+- Análise 3D de compatibilidade geométrica para disciplinas de arquitetura, estrutura, fundação e terraplenagem.
+- Análise 3D de compatibilidade geométrica (clash) multidisciplinar conforme prioridades estabelecidas.
+- Análise de conformidade, integridade e consistência das informações dos elementos, modelos e documentos do projeto.
+
+Relatório de Progresso:
+- O Relatório de Progresso do Modelo deve ser apresentado à Vale para aprovação junto ao relatório mensal do projeto.
+
+Importância:
+A medição correta do progresso do modelo BIM é crucial para assegurar que o desenvolvimento esteja alinhado com os objetivos do projeto, garantindo a precisão e eficiência no uso dos recursos.
+
+Exemplo de Aplicação:
+Medir o progresso com base na qualidade e completude do modelo BIM permite identificar e corrigir eventuais falhas de forma proativa, contribuindo para o sucesso do projeto.
