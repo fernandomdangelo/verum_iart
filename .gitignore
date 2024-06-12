@@ -1,0 +1,38 @@
+# Ignorar ambientes virtuais do Python
+echo "curso_2_openai/Lib/site-packages/" >> .gitignore
+echo "curso_2_openai/bin/" >> .gitignore
+echo "curso_2_openai/include/" >> .gitignore
+echo "curso_2_openai/lib/" >> .gitignore
+echo "curso_2_openai/lib64/" >> .gitignore
+echo "curso_2_openai/pyvenv.cfg" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo "*.pyo" >> .gitignore
+echo "*.pyd" >> .gitignore
+echo "*.env" >> .gitignore
+echo "*.venv" >> .gitignore
+echo "*.env.bak" >> .gitignore
+echo "*.venv.bak" >> .gitignore
+echo ".Python" >> .gitignore
+echo "env/" >> .gitignore
+echo "venv/" >> .gitignore
+echo "ENV/" >> .gitignore
+echo "env.bak/" >> .gitignore
+echo "venv.bak/" >> .gitignore
+
+# Ignorar outros arquivos e pastas
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+*.env.bak
+*.venv.bak
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+*.env
