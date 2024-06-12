@@ -1,0 +1,29 @@
+1. Quais critérios serão utilizados para medir o progresso do modelo BIM?
+   Exemplo: "O progresso será medido com base na qualidade e completude do modelo BIM, utilizando análises 3D de compatibilidade geométrica e relatórios de progresso mensais."
+
+2. Como será realizada a análise 3D de compatibilidade geométrica entre disciplinas?
+   Exemplo: "Usaremos softwares como Navisworks para identificar e resolver conflitos geométricos entre as diferentes disciplinas."
+
+3. Que tipo de relatório de progresso do modelo deve ser apresentado?
+   Exemplo: "Um relatório mensal que inclui a análise de conformidade, integridade e consistência das informações dos elementos, modelos e documentos do projeto."
+
+4. Como será garantida a conformidade das informações no modelo BIM?
+   Exemplo: "Realizaremos auditorias de qualidade e revisões regulares para assegurar que as informações estejam em conformidade com os critérios estabelecidos."
+
+5. Quais são as principais métricas para avaliar o progresso do modelo BIM?
+   Exemplo: "As principais métricas incluem a porcentagem de conclusão dos elementos modelados, a resolução de interferências e a consistência dos dados."
+
+6. Como o progresso do modelo BIM será integrado com o cronograma do projeto?
+   Exemplo: "Utilizaremos o planejamento 4D para sincronizar o progresso do modelo com as atividades do cronograma do projeto."
+
+7. Quem será responsável por revisar e aprovar os relatórios de progresso do modelo?
+   Exemplo: "Os relatórios de progresso serão revisados e aprovados pela equipe de gerenciamento de projetos e pelos principais stakeholders."
+
+8. Quais ferramentas serão utilizadas para monitorar o progresso do modelo BIM?
+   Exemplo: "Utilizaremos ferramentas como Revit, Navisworks e plataformas colaborativas para monitorar e reportar o progresso do modelo."
+
+9. Como serão tratadas as discrepâncias identificadas durante a medição do progresso do modelo?
+   Exemplo: "As discrepâncias serão documentadas e endereçadas em reuniões de revisão de progresso, com ações corretivas definidas e implementadas."
+
+10. Quais são os critérios para considerar que o modelo BIM atingiu um progresso satisfatório?
+    Exemplo: "O modelo será considerado satisfatório quando atingir 100% de conclusão dos elementos planejados, sem conflitos remanescentes e com todas as informações consistentes e verificadas."

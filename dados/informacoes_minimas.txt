@@ -1,0 +1,18 @@
+INFORMAÇÕES MÍNIMAS
+
+Objetivo: Definir as informações mínimas a serem preenchidas nos elementos do modelo BIM para garantir a consulta, extração de listas e tabelas, e a utilização de anotações inteligentes.
+
+Parâmetros:
+- Parâmetros Quantitativos: Devem ser extraídos automaticamente a partir da geometria parametrizada.
+- Parâmetros Qualitativos: Devem ser padronizados para possibilitar o agrupamento e o filtro dos elementos.
+
+Exemplos de Parâmetros Qualitativos:
+- Descrição
+- Modelo
+- Fabricante
+
+Importância da Padronização:
+A falta de padronização é inadmissível. Todos os elementos devem possuir codificação estruturada e rastreável. A projetista deve aplicar essa codificação em todos os elementos, podendo ser fornecida pela equipe Vale ou proposta pela contratada para aprovação.
+
+Exemplo de Aplicação:
+A padronização garante a integridade e a consistência dos dados do modelo, facilitando a extração de informações precisas e a execução eficiente do projeto.
