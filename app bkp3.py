@@ -14,35 +14,17 @@ modelo = os.getenv("MODELO_GERAL")
 app = Flask(__name__)
 app.secret_key = os.getenv("FLASK_KEY")
 
+
 thread = criar_thread()
 
 entrevistador =  "asst_w4HdCa3Sm7RyeZw8Uh2L5ays" #Asistente Entrevistador 2 (OpenaAI Bicalho):  "asst_mLwagdf01yBC0BGbEd71FscF"
-analista = "asst_oQdv1pPrfExSMzvodE4b00EV" #Analista IART
-redator = "asst_fQs20RAsYxPxSA5WRFnbFZs7" #Redator IART
-revisor = "asst_7dojcQenLDVP2aj9hNOLx6Qb" #Revisor Interno IART
+analista = "asst_FOWRenT4EeWjO6vCTJsclGKS" #Analista IART
+
 
 assistente = entrevistador #Cosntruir função para selecionar o assistente de acordo com o prompt de saída Entrevistador IART mantendo a thread com o Briefing.
 
 
 def bot(prompt):
-# Informações Inseridas
-    assistente = entrevistador #Cosntruir função para selecionar o assistente de acordo com o prompt de saída Entrevistador IART mantendo a thread com o Briefing.
-    historico = list(cliente.beta.threads.messages.list(thread_id=thread.id).data)
-
-    
-    if len(historico) > 0:
-        ultima_interacao = historico[0].content[0].text.value
-    
-        if "FIM DA ENTREVISTA" in ultima_interacao:
-            assistente = analista
-                
-        if "FIM DA ANALISE" in ultima_interacao:
-             assistente = redator
-            
-        if "FIM DA REDACAO" in ultima_interacao:
-             assistente = revisor
-# informações inseridas
-
     maximo_tentativas = 1
     repeticao = 0
     #assistente = seleciona_persona(prompt)
