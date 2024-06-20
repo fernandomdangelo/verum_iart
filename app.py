@@ -25,6 +25,7 @@ assistente = entrevistador #Cosntruir função para selecionar o assistente de a
 
 
 def bot(prompt):
+    
 # Informações Inseridas
     assistente = entrevistador #Cosntruir função para selecionar o assistente de acordo com o prompt de saída Entrevistador IART mantendo a thread com o Briefing.
     historico = list(cliente.beta.threads.messages.list(thread_id=thread.id).data)

@@ -29,3 +29,4 @@ typing_extensions==4.12.1
 urllib3==2.2.1
 uuid==1.30
 Werkzeug==3.0.3
+gunicorn==22.0.0
