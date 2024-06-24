@@ -17,7 +17,7 @@ async function enviarMensagem() {
     novaBolhaBot.innerHTML = "Analisando ..."
     
     // Envia requisição com a mensagem para a API do ChatBot
-    const resposta = await fetch("http://127.0.0.1:5000/chat", {
+    const resposta = await fetch("https://verum-iart.onrender.com/chat", {
         method: "POST",
         headers: {
         "Content-Type": "application/json",
