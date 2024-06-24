@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3eb62ea5-3247-459b-84d1-6e1cb04581ea/resourceGroups/WS5/providers/Microsoft.Web/sites/iart",
+    "appService.deploySubpath": "."
+}
